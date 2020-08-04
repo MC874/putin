@@ -18,4 +18,4 @@ Including **Extra Wide Front** , its just the **Opposite from the Wide Normal** 
 # License
 This Model is Licensed just for Personal user, under Private Copyies :
 - [Private Copying Fair Compensation](http://www.ipo.gov.uk/ipresearch-faircomp-full-201110.pdf)
-- [Personal Copying Section 28B and Scheduel 2 (1B)](https://www.legislation.gov.uk/uksi/2014/2361/made)
+- [Personal Copying Section 28B and Schedule 2 (1B)](https://www.legislation.gov.uk/uksi/2014/2361/made)
