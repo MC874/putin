@@ -14,8 +14,3 @@ The model stretched into X axis, so its the same as [Wide Putin Meme](https://ww
 
 # Wide Front
 Including **Extra Wide Front** , its just the **Opposite from the Wide Normal** . The model stretched into Y axis, so its getting wider to the front size not to the side.
-
-# License
-This Model is Licensed just for Personal user, under Private Copyies :
-- [Private Copying Fair Compensation](http://www.ipo.gov.uk/ipresearch-faircomp-full-201110.pdf)
-- [Personal Copying Section 28B and Schedule 2 (1B)](https://www.legislation.gov.uk/uksi/2014/2361/made)
