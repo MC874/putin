@@ -1,0 +1,36 @@
+{
+  "skins": [
+    {
+      "localization_name": "Extra Front",
+      "geometry": "geometry.craft874.ExtraFront",
+      "texture": "Putimir.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Extra Wide",
+      "geometry": "geometry.craft874.ExtraWide",
+      "texture": "Putimir.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Normal",
+      "geometry": "geometry.craft874.Normal",
+      "texture": "Putimir.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wide Front",
+      "geometry": "geometry.craft874.WideFront",
+      "texture": "Putimir.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wide Normal",
+      "geometry": "geometry.craft874.WideNormal",
+      "texture": "Putimir.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Vladin",
+  "localization_name": "Vladin"
+}
