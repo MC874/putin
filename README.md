@@ -106,6 +106,12 @@
 # Changelog
 <img src="Proj/BG/BGR/a.PNG" height="30">
 
-- Fixed Link that caused by typo (Sorry because i filled the submission while im sleepy).
-- Changed the title to fixed name.
-- Revert The Pack Banner to Original.
+- Adjust Item Offset on some variant.
+- Fixing some hole that may be seen while the model is walking
+- Fixed some missing geometry especially on the Armor.
+- Fixed Unknown Variable :{
+   >variable.head_layer_visible
+   >variable.is_first_persone
+- Every of the Model part now separated along with the texture
+- The texture now bumped to more higher resolution! (1024x1024)
+- Updating license to CC BY-NC-SA 4.0
